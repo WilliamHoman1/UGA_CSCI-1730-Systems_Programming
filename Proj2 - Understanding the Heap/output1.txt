@@ -1,0 +1,321 @@
+Enter a list of grades below where each grade is separated by a newline character.
+After the last grade is entered, enter a negative value to end the list. 
+Allocated 40 bytes to the heap at 0x214e010.
+Stored 35.041300 in the heap at 0x214e010.
+Stored 91.850000 in the heap at 0x214e018.
+Stored 4.069500 in the heap at 0x214e020.
+Stored 88.506400 in the heap at 0x214e028.
+Stored 65.950100 in the heap at 0x214e030.
+Stored 5 grades (40 bytes) to the heap at 0x214e010.
+Heap at 0x214e010 is full.
+Allocated 80 bytes to the heap at 0x214e040.
+Copied 5 grades from 0x214e010 to 0x214e040.
+Freed 40 bytes from the heap at 0x214e010.
+Stored 37.000900 in the heap at 0x214e068.
+Stored 80.362100 in the heap at 0x214e070.
+Stored 67.268500 in the heap at 0x214e078.
+Stored 11.913700 in the heap at 0x214e080.
+Stored 71.582000 in the heap at 0x214e088.
+Stored 10 grades (80 bytes) to the heap at 0x214e040.
+Heap at 0x214e040 is full.
+Allocated 120 bytes to the heap at 0x214e0a0.
+Copied 10 grades from 0x214e040 to 0x214e0a0.
+Freed 80 bytes from the heap at 0x214e040.
+Stored 20.350300 in the heap at 0x214e0f0.
+Stored 1.649700 in the heap at 0x214e0f8.
+Stored 18.547600 in the heap at 0x214e100.
+Stored 93.248400 in the heap at 0x214e108.
+Stored 87.471100 in the heap at 0x214e110.
+Stored 15 grades (120 bytes) to the heap at 0x214e0a0.
+Heap at 0x214e0a0 is full.
+Allocated 160 bytes to the heap at 0x214e120.
+Copied 15 grades from 0x214e0a0 to 0x214e120.
+Freed 120 bytes from the heap at 0x214e0a0.
+Stored 3.170600 in the heap at 0x214e198.
+Stored 89.174200 in the heap at 0x214e1a0.
+Stored 96.957500 in the heap at 0x214e1a8.
+Stored 15.601700 in the heap at 0x214e1b0.
+Stored 63.192700 in the heap at 0x214e1b8.
+Stored 20 grades (160 bytes) to the heap at 0x214e120.
+Heap at 0x214e120 is full.
+Allocated 200 bytes to the heap at 0x214e1d0.
+Copied 20 grades from 0x214e120 to 0x214e1d0.
+Freed 160 bytes from the heap at 0x214e120.
+Stored 11.343800 in the heap at 0x214e270.
+Stored 88.117600 in the heap at 0x214e278.
+Stored 89.984800 in the heap at 0x214e280.
+Stored 7.447200 in the heap at 0x214e288.
+Stored 9.117600 in the heap at 0x214e290.
+Stored 25 grades (200 bytes) to the heap at 0x214e1d0.
+Heap at 0x214e1d0 is full.
+Allocated 240 bytes to the heap at 0x214e2a0.
+Copied 25 grades from 0x214e1d0 to 0x214e2a0.
+Freed 200 bytes from the heap at 0x214e1d0.
+Stored 60.452600 in the heap at 0x214e368.
+Stored 40.844300 in the heap at 0x214e370.
+Stored 63.172400 in the heap at 0x214e378.
+Stored 39.284500 in the heap at 0x214e380.
+Stored 60.897900 in the heap at 0x214e388.
+Stored 30 grades (240 bytes) to the heap at 0x214e2a0.
+Heap at 0x214e2a0 is full.
+Allocated 280 bytes to the heap at 0x214e120.
+Copied 30 grades from 0x214e2a0 to 0x214e120.
+Freed 240 bytes from the heap at 0x214e2a0.
+Stored 77.354200 in the heap at 0x214e210.
+Stored 67.703400 in the heap at 0x214e218.
+Stored 73.623000 in the heap at 0x214e220.
+Stored 74.743700 in the heap at 0x214e228.
+Stored 69.609100 in the heap at 0x214e230.
+Stored 35 grades (280 bytes) to the heap at 0x214e120.
+Heap at 0x214e120 is full.
+Allocated 320 bytes to the heap at 0x214e240.
+Copied 35 grades from 0x214e120 to 0x214e240.
+Freed 280 bytes from the heap at 0x214e120.
+Stored 43.685400 in the heap at 0x214e358.
+Stored 39.480800 in the heap at 0x214e360.
+Stored 5.270000 in the heap at 0x214e368.
+Stored 23.972800 in the heap at 0x214e370.
+Stored 53.107000 in the heap at 0x214e378.
+Stored 40 grades (320 bytes) to the heap at 0x214e240.
+Heap at 0x214e240 is full.
+Allocated 360 bytes to the heap at 0x214e010.
+Copied 40 grades from 0x214e240 to 0x214e010.
+Freed 320 bytes from the heap at 0x214e240.
+Stored 8.850800 in the heap at 0x214e150.
+Stored 75.819500 in the heap at 0x214e158.
+Stored 40.427900 in the heap at 0x214e160.
+Stored 96.081900 in the heap at 0x214e168.
+Stored 49.652100 in the heap at 0x214e170.
+Stored 45 grades (360 bytes) to the heap at 0x214e010.
+Heap at 0x214e010 is full.
+Allocated 400 bytes to the heap at 0x214e180.
+Copied 45 grades from 0x214e010 to 0x214e180.
+Freed 360 bytes from the heap at 0x214e010.
+Stored 11.106400 in the heap at 0x214e2e8.
+Stored 31.402000 in the heap at 0x214e2f0.
+Stored 67.508200 in the heap at 0x214e2f8.
+Stored 21.753400 in the heap at 0x214e300.
+Stored 91.395600 in the heap at 0x214e308.
+Stored 50 grades (400 bytes) to the heap at 0x214e180.
+Heap at 0x214e180 is full.
+Allocated 440 bytes to the heap at 0x214e320.
+Copied 50 grades from 0x214e180 to 0x214e320.
+Freed 400 bytes from the heap at 0x214e180.
+Stored 40.596200 in the heap at 0x214e4b0.
+Stored 82.324800 in the heap at 0x214e4b8.
+Stored 62.587000 in the heap at 0x214e4c0.
+Stored 40.904600 in the heap at 0x214e4c8.
+Stored 70.323700 in the heap at 0x214e4d0.
+Stored 55 grades (440 bytes) to the heap at 0x214e320.
+Heap at 0x214e320 is full.
+Allocated 480 bytes to the heap at 0x214e010.
+Copied 55 grades from 0x214e320 to 0x214e010.
+Freed 440 bytes from the heap at 0x214e320.
+Stored 55.314300 in the heap at 0x214e1c8.
+Stored 7.969800 in the heap at 0x214e1d0.
+Stored 46.333400 in the heap at 0x214e1d8.
+Stored 21.971600 in the heap at 0x214e1e0.
+Stored 98.803000 in the heap at 0x214e1e8.
+Stored 60 grades (480 bytes) to the heap at 0x214e010.
+Heap at 0x214e010 is full.
+Allocated 520 bytes to the heap at 0x214e200.
+Copied 60 grades from 0x214e010 to 0x214e200.
+Freed 480 bytes from the heap at 0x214e010.
+Stored 31.922800 in the heap at 0x214e3e0.
+Stored 45.466900 in the heap at 0x214e3e8.
+Stored 14.154100 in the heap at 0x214e3f0.
+Stored 49.195400 in the heap at 0x214e3f8.
+Stored 41.045400 in the heap at 0x214e400.
+Stored 65 grades (520 bytes) to the heap at 0x214e200.
+Heap at 0x214e200 is full.
+Allocated 560 bytes to the heap at 0x214e410.
+Copied 65 grades from 0x214e200 to 0x214e410.
+Freed 520 bytes from the heap at 0x214e200.
+Stored 45.114900 in the heap at 0x214e618.
+Stored 33.621300 in the heap at 0x214e620.
+Stored 99.571500 in the heap at 0x214e628.
+Stored 36.572400 in the heap at 0x214e630.
+Stored 16.934500 in the heap at 0x214e638.
+Stored 70 grades (560 bytes) to the heap at 0x214e410.
+Heap at 0x214e410 is full.
+Allocated 600 bytes to the heap at 0x214e010.
+Copied 70 grades from 0x214e410 to 0x214e010.
+Freed 560 bytes from the heap at 0x214e410.
+Stored 84.203000 in the heap at 0x214e240.
+Stored 96.116700 in the heap at 0x214e248.
+Stored 67.698700 in the heap at 0x214e250.
+Stored 88.049000 in the heap at 0x214e258.
+Stored 89.698600 in the heap at 0x214e260.
+Stored 75 grades (600 bytes) to the heap at 0x214e010.
+Heap at 0x214e010 is full.
+Allocated 640 bytes to the heap at 0x214e270.
+Copied 75 grades from 0x214e010 to 0x214e270.
+Freed 600 bytes from the heap at 0x214e010.
+Stored 8.246200 in the heap at 0x214e4c8.
+Stored 1.494600 in the heap at 0x214e4d0.
+Stored 88.965700 in the heap at 0x214e4d8.
+Stored 92.136200 in the heap at 0x214e4e0.
+Stored 81.310400 in the heap at 0x214e4e8.
+Stored 80 grades (640 bytes) to the heap at 0x214e270.
+Heap at 0x214e270 is full.
+Allocated 680 bytes to the heap at 0x214e500.
+Copied 80 grades from 0x214e270 to 0x214e500.
+Freed 640 bytes from the heap at 0x214e270.
+Stored 78.268000 in the heap at 0x214e780.
+Stored 93.869700 in the heap at 0x214e788.
+Stored 57.062400 in the heap at 0x214e790.
+Stored 68.406100 in the heap at 0x214e798.
+Stored 56.523700 in the heap at 0x214e7a0.
+Stored 85 grades (680 bytes) to the heap at 0x214e500.
+Heap at 0x214e500 is full.
+Allocated 720 bytes to the heap at 0x214e010.
+Copied 85 grades from 0x214e500 to 0x214e010.
+Freed 680 bytes from the heap at 0x214e500.
+Stored 46.508500 in the heap at 0x214e2b8.
+Stored 53.955700 in the heap at 0x214e2c0.
+Stored 63.073300 in the heap at 0x214e2c8.
+Stored 23.525900 in the heap at 0x214e2d0.
+Stored 64.370200 in the heap at 0x214e2d8.
+Stored 90 grades (720 bytes) to the heap at 0x214e010.
+Heap at 0x214e010 is full.
+Allocated 760 bytes to the heap at 0x214e2f0.
+Copied 90 grades from 0x214e010 to 0x214e2f0.
+Freed 720 bytes from the heap at 0x214e010.
+Stored 27.542600 in the heap at 0x214e5c0.
+Stored 66.827100 in the heap at 0x214e5c8.
+Stored 27.725000 in the heap at 0x214e5d0.
+Stored 5.079200 in the heap at 0x214e5d8.
+Stored 72.782500 in the heap at 0x214e5e0.
+Stored 95 grades (760 bytes) to the heap at 0x214e2f0.
+Heap at 0x214e2f0 is full.
+Allocated 800 bytes to the heap at 0x214e5f0.
+Copied 95 grades from 0x214e2f0 to 0x214e5f0.
+Freed 760 bytes from the heap at 0x214e2f0.
+Stored 46.405500 in the heap at 0x214e8e8.
+Stored 21.149200 in the heap at 0x214e8f0.
+Stored 90.758400 in the heap at 0x214e8f8.
+Stored 34.443700 in the heap at 0x214e900.
+Stored 73.924500 in the heap at 0x214e908.
+Stored 100 grades (800 bytes) to the heap at 0x214e5f0.
+Heap at 0x214e5f0 is full.
+Allocated 840 bytes to the heap at 0x214e010.
+Copied 100 grades from 0x214e5f0 to 0x214e010.
+Freed 800 bytes from the heap at 0x214e5f0.
+Stored 79.194500 in the heap at 0x214e330.
+Stored 3.167200 in the heap at 0x214e338.
+Stored 56.274300 in the heap at 0x214e340.
+Stored 65.125000 in the heap at 0x214e348.
+Stored 40.944500 in the heap at 0x214e350.
+Stored 105 grades (840 bytes) to the heap at 0x214e010.
+Heap at 0x214e010 is full.
+Allocated 880 bytes to the heap at 0x214e360.
+Copied 105 grades from 0x214e010 to 0x214e360.
+Freed 840 bytes from the heap at 0x214e010.
+The average of 105 grades is 52.301634.
+1. The grade of 35.041300 is < the average.
+2. The grade of 91.850000 is >= the average.
+3. The grade of 4.069500 is < the average.
+4. The grade of 88.506400 is >= the average.
+5. The grade of 65.950100 is >= the average.
+6. The grade of 37.000900 is < the average.
+7. The grade of 80.362100 is >= the average.
+8. The grade of 67.268500 is >= the average.
+9. The grade of 11.913700 is < the average.
+10. The grade of 71.582000 is >= the average.
+11. The grade of 20.350300 is < the average.
+12. The grade of 1.649700 is < the average.
+13. The grade of 18.547600 is < the average.
+14. The grade of 93.248400 is >= the average.
+15. The grade of 87.471100 is >= the average.
+16. The grade of 3.170600 is < the average.
+17. The grade of 89.174200 is >= the average.
+18. The grade of 96.957500 is >= the average.
+19. The grade of 15.601700 is < the average.
+20. The grade of 63.192700 is >= the average.
+21. The grade of 11.343800 is < the average.
+22. The grade of 88.117600 is >= the average.
+23. The grade of 89.984800 is >= the average.
+24. The grade of 7.447200 is < the average.
+25. The grade of 9.117600 is < the average.
+26. The grade of 60.452600 is >= the average.
+27. The grade of 40.844300 is < the average.
+28. The grade of 63.172400 is >= the average.
+29. The grade of 39.284500 is < the average.
+30. The grade of 60.897900 is >= the average.
+31. The grade of 77.354200 is >= the average.
+32. The grade of 67.703400 is >= the average.
+33. The grade of 73.623000 is >= the average.
+34. The grade of 74.743700 is >= the average.
+35. The grade of 69.609100 is >= the average.
+36. The grade of 43.685400 is < the average.
+37. The grade of 39.480800 is < the average.
+38. The grade of 5.270000 is < the average.
+39. The grade of 23.972800 is < the average.
+40. The grade of 53.107000 is >= the average.
+41. The grade of 8.850800 is < the average.
+42. The grade of 75.819500 is >= the average.
+43. The grade of 40.427900 is < the average.
+44. The grade of 96.081900 is >= the average.
+45. The grade of 49.652100 is < the average.
+46. The grade of 11.106400 is < the average.
+47. The grade of 31.402000 is < the average.
+48. The grade of 67.508200 is >= the average.
+49. The grade of 21.753400 is < the average.
+50. The grade of 91.395600 is >= the average.
+51. The grade of 40.596200 is < the average.
+52. The grade of 82.324800 is >= the average.
+53. The grade of 62.587000 is >= the average.
+54. The grade of 40.904600 is < the average.
+55. The grade of 70.323700 is >= the average.
+56. The grade of 55.314300 is >= the average.
+57. The grade of 7.969800 is < the average.
+58. The grade of 46.333400 is < the average.
+59. The grade of 21.971600 is < the average.
+60. The grade of 98.803000 is >= the average.
+61. The grade of 31.922800 is < the average.
+62. The grade of 45.466900 is < the average.
+63. The grade of 14.154100 is < the average.
+64. The grade of 49.195400 is < the average.
+65. The grade of 41.045400 is < the average.
+66. The grade of 45.114900 is < the average.
+67. The grade of 33.621300 is < the average.
+68. The grade of 99.571500 is >= the average.
+69. The grade of 36.572400 is < the average.
+70. The grade of 16.934500 is < the average.
+71. The grade of 84.203000 is >= the average.
+72. The grade of 96.116700 is >= the average.
+73. The grade of 67.698700 is >= the average.
+74. The grade of 88.049000 is >= the average.
+75. The grade of 89.698600 is >= the average.
+76. The grade of 8.246200 is < the average.
+77. The grade of 1.494600 is < the average.
+78. The grade of 88.965700 is >= the average.
+79. The grade of 92.136200 is >= the average.
+80. The grade of 81.310400 is >= the average.
+81. The grade of 78.268000 is >= the average.
+82. The grade of 93.869700 is >= the average.
+83. The grade of 57.062400 is >= the average.
+84. The grade of 68.406100 is >= the average.
+85. The grade of 56.523700 is >= the average.
+86. The grade of 46.508500 is < the average.
+87. The grade of 53.955700 is >= the average.
+88. The grade of 63.073300 is >= the average.
+89. The grade of 23.525900 is < the average.
+90. The grade of 64.370200 is >= the average.
+91. The grade of 27.542600 is < the average.
+92. The grade of 66.827100 is >= the average.
+93. The grade of 27.725000 is < the average.
+94. The grade of 5.079200 is < the average.
+95. The grade of 72.782500 is >= the average.
+96. The grade of 46.405500 is < the average.
+97. The grade of 21.149200 is < the average.
+98. The grade of 90.758400 is >= the average.
+99. The grade of 34.443700 is < the average.
+100. The grade of 73.924500 is >= the average.
+101. The grade of 79.194500 is >= the average.
+102. The grade of 3.167200 is < the average.
+103. The grade of 56.274300 is >= the average.
+104. The grade of 65.125000 is >= the average.
+105. The grade of 40.944500 is < the average.
+Freed 880 bytes from the heap at 0x214e360.
+total heap usage: 22 allocs, 22 frees, 10120 bytes allocated
